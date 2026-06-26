@@ -11,6 +11,7 @@ This is a QGIS plugin for radio propagation to compute field strength prediction
 - ITU 1546
 - Longley-Rice (ITM)
 - ITU 1812
+- COST231
 
 These models are used for broadcasting transmitters, point-multipoint systems, point-point radiolinks.
 ## Prediction modes
@@ -35,6 +36,8 @@ Easy to use tool for:
 
 > [!IMPORTANT]
 > Works with all meter based project CRS: **'UTM'**,  **'Pseudo Mercator'** or in Hungary **`EPSG:23700`** (HD72 / EOV)
+
+It is also available as a QGIS plugin, and is easier to install from within QGIS.
 
 [Install](https://github.com/krbg-TeleDeLuxe/TeleProp/wiki/Installation)
 
